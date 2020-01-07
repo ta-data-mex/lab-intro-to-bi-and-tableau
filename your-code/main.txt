@@ -1,0 +1,4 @@
+# Lab | Introduction to BI and Tableau
+
+Link to your Tableau Public workbook: Pair Programming Nacy & Elsa
+https://public.tableau.com/profile/elsa7784#!/vizhome/liquor_store_sales_Lab_IronHack/TotalRetailSalesQ
